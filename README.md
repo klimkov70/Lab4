@@ -22,4 +22,8 @@
 3. Результаты действий будут выведены на экран.
 
 ## Скриншоты тестов
-![Задание 1](file:///C:/Users/MSI/Desktop/111111111.jpg "Тест")
+1.![alt text](https://github.com/klimkov70/Lab4/blob/main/Результат%2010000.png))
+2.![alt text](https://github.com/klimkov70/Lab4/blob/main/Результат%201103.png))
+3.![alt text](https://github.com/klimkov70/Lab4/blob/main/Результат%20328.png))
+4.![alt text](https://github.com/klimkov70/Lab4/blob/main/Результат%2056501.png)
+
