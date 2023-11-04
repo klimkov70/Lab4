@@ -25,4 +25,5 @@
 ![alt text](https://github.com/klimkov70/Lab4/blob/main/Результат%2010000.png)
 ![alt text](https://github.com/klimkov70/Lab4/blob/main/Результат%20328.png)
 ![alt text](https://github.com/klimkov70/Lab4/blob/main/Результат%2056501.png)
+![alt text](https://github.com/klimkov70/Lab4/blob/main/Результат%201103(2).png)
 
